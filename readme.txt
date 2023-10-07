@@ -1,0 +1,1 @@
+Creating a file to see if using origin in two different repositories will upload to same remote repository or gitconfig will be separate for two different repositories with respect to remote link alias
